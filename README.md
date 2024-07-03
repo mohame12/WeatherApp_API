@@ -1,6 +1,7 @@
 # weather_app
 
 A new Flutter project using WeatherAPI and Bloc/cubit .
+![WhatsApp Image 2024-07-03 at 1 58 05 PM](https://github.com/mohame12/WeatherApp_API/assets/71080118/a783b66a-1ba3-4f98-a293-a6b7ff4641a8)
 
 ## Getting Started
 
